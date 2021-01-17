@@ -2,7 +2,7 @@
 Code of GTP-PNet: A residual learning network based on gradient transformation prior for pansharpening.
 
 ````
-@article{zhang2021gtp,
+@article{zhang172gtp,
   title={GTP-PNet: A residual learning network based on gradient transformation prior for pansharpening},
   author={Zhang, Hao and Ma, Jiayi},
   journal={ISPRS Journal of Photogrammetry and Remote Sensing},
