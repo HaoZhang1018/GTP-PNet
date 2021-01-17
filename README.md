@@ -8,6 +8,7 @@ Code of GTP-PNet: A residual learning network based on gradient transformation p
   journal={ISPRS Journal of Photogrammetry and Remote Sensing},
   volume={172},
   pages={223--239},
+  year={2021}
   publisher={Elsevier}
 }
 ````
